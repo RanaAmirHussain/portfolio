@@ -701,4 +701,14 @@ p {
 		margin: 1.5%;
 	}
 }
+
+#khobsoorati{
+background-color:yellowgreen ;
+background-image:url('static/image/15.jpg') ;
+position: absolute;
+
+
+}
+
+
 /* End  Media Query For Desktop */
