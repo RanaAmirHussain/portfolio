@@ -702,6 +702,10 @@ p {
 	}
 }
 
+#pics .adeema{
+	height: 200px;
+}
+
 .khobsoorati{
 background-color:yellowgreen ;
 background-image:url('static/image/15.jpg') ;
